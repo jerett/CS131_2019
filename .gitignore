@@ -1,0 +1,21 @@
+.idea/
+
+# Virtualenv
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+[Ss]hare
+[tT]cl
+etc/
+.ipynb_checkpoints/
+__pycache__
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+.DS_Store
+Lectures/01_introduction.pdf
+Lectures/10_intro_objrecog.pdf
